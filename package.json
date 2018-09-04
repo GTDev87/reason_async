@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "bs-platform": "git+https://github.com/bsansouci/bsb-native"
+    "bs-platform": "4.0.0"
   },
   "devDependencies": {},
   "scripts": {
